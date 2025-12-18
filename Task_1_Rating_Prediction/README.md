@@ -1,4 +1,4 @@
-# Restaurant Rating Prediction
+# Restaurant Rating Prediction 
 
 ## Objective
 Predict the aggregate rating of restaurants using machine learning regression techniques.
